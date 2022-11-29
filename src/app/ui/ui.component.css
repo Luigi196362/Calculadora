@@ -33,4 +33,11 @@
     cursor: pointer;
     color: green;
 }
-
+.multiplicacion-button {
+    cursor: pointer;
+    color: red;
+}
+.division-button {
+    cursor: pointer;
+    color: blue;
+}
