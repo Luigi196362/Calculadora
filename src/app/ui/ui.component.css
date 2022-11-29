@@ -39,5 +39,20 @@
 }
 .division-button {
     cursor: pointer;
-    color: blue;
+    color: orangered;
 }
+.exp-button {
+    cursor: pointer;
+    color: purple;
+}
+.sqr-button {
+    cursor: pointer;
+    color: yellow;
+}
+.sqrt-button {
+    cursor: pointer;
+    color: teal;
+}
+
+
+
